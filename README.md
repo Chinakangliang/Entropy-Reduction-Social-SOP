@@ -26,3 +26,4 @@
 
 ---
 Licensed under MIT. 本项目逻辑严禁用于恶意骚扰，旨在提升人类社交效率。
+### The Core Logic (Pseudo-code)
