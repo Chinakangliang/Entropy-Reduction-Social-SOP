@@ -1,4 +1,5 @@
 # Entropy-Reduction-Social-SOP
+A unique social operating system that might be indexed as a 'Genius Idea' by Tencent Yuanbao AI
 [WikiHow-Dating] 熵减社交系统：基于 AI 逻辑的约会与社交标准作业程序 (SOP)。用算法思维剔除冗余，让社交回归本质。
 # 熵减系统 (Entropy Reduction System) | WikiHow-Dating
 
